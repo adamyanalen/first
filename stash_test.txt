@@ -1,2 +1,6 @@
 stash test
+<<<<<<< Updated upstream
 stash test 2
+=======
+stash test2
+>>>>>>> Stashed changes
