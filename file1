@@ -1,4 +1,8 @@
 file1
 branch1 text
+<<<<<<< HEAD
 shtash_test
 stash_test_2
+=======
+stash test 4
+>>>>>>> b26a2efdb7d2cfa561427db20ee7342581dd4606
